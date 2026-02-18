@@ -1,4 +1,3 @@
-```markdown
 # Attack Vector Catalogue (for custom ChatGPT knowledge)
 
 > Purpose: Provide a planning-ready, non-operational catalogue of common foothold vectors across technical, physical, human, and organizational domains. Aligned with the “footholds” workshop concept. :contentReference[oaicite:0]{index=0}
@@ -435,4 +434,3 @@
 # Notes
 - “Decryption” is treated as **key/token compromise and crypto weaknesses** (a chain enabler, not usually an entry vector).
 - All items are phrased for **planning and defensive awareness**, not for step-by-step exploitation. :contentReference[oaicite:1]{index=1}
-```
